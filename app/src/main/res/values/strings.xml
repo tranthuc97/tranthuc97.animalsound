@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SoundAnimal nâng cao</string>
+    <string name="txt_animal_sound">Animal Sound!</string>
+    <string name="txt_interesting_music_of_animals">Interesting Music Of Animals</string>
+    <string name="txt_farm">Farm</string>
+    <string name="txt_farm2">Farm 2</string>
+    <string name="txt_savana">Savana</string>
+    <string name="txt_forest">Forest</string>
+    <string name="txt_monkey">Monkey</string>
+    <string name="txt_dialog">Dialog</string>
+    <string name="txt_close_app">Close App?</string>
+    <string name="txt_ok">Ok</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_play_mini_game">Play mini game :))</string>
+    <string name="txt_11_20">11/20</string>
+</resources>
